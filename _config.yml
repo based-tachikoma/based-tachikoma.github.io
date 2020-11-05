@@ -7,9 +7,9 @@ ins_logo: "./dancing-tachikoma.gif"
 
 tracking_id: #
 
-footer: no
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer: yes
+footer_url: "https://twitter.com/based_tachikoma"
+footer_text: <img src="twitter.png">
 
 sass:
     style: compressed
