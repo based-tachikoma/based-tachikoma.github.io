@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="rapper-hobbyt.png">
 
-I am system architect with a focus on distributed systems, DevOps and UX design. The last few years I worked on integrating decentralized financial protocols into mobile and desktop apps. 
+I am system architect with a focus on distributed systems and UX. The last few years I worked on integrating decentralized financial protocols into mobile and desktop apps. 
 
 ## Projects
 
