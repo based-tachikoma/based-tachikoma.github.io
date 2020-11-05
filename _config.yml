@@ -3,7 +3,7 @@ url: ""
 baseurl: ""
 
 markdown: kramdown
-ins_logo: "./dancing-tachikoma.gif"
+ins_logo: "./tachikoma-clip.png"
 
 tracking_id: #
 
