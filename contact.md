@@ -6,6 +6,7 @@ is_contact: true
 * Email: [based.tachikoma@gmail.com](mailto:based.tachikoma@gmail.com)
 
 * Connect to **~rapper-hobbyt** on Urbit: 
-      
->  :publish|subscribe ~rapper-hobbyt %urbit-discovery
 
+```      
+:publish&#124;subscribe ~rapper-hobbyt %urbit-discovery
+```
