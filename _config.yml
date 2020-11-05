@@ -1,9 +1,9 @@
-title: Philipp Dogan
+title: Philipp Do&#x11F;an
 url: ""
 baseurl: ""
 
 markdown: kramdown
-ins_logo: "./bits-logo.png"
+ins_logo: "./dancing-tachikoma2.gif"
 
 tracking_id: #
 
@@ -17,6 +17,6 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "index"
  - name: "Contact"
    link: "contact"
