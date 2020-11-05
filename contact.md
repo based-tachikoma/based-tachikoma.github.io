@@ -8,5 +8,5 @@ is_contact: true
 * Connect to **~rapper-hobbyt** on Urbit: 
 
 ```      
-:publish&#124;subscribe ~rapper-hobbyt %urbit-discovery
-```
+:publish &#124; subscribe ~rapper-hobbyt %urbit-discovery
+´´´
