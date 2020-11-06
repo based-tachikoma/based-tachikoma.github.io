@@ -6,12 +6,13 @@ layout: default
 
 <img class="profile-picture" src="rapper-hobbyt.png">
 
-I am a systems architect with a focus on distributed and decentralized systems, DevOps and UX. The last few years I worked on integrating decentralized financial protocols into mobile and desktop apps. 
+I am a systems architect working with distributed and decentralized systems, DevOps and UX. In my last projects I built mobile and web apps integrating decentralized financial protocols. 
 
 ## Projects
 
 * [Ash](https://ash.finance)
 * [eazyX](https://eazy.exchange)
+* Open source interface for the [Melon](https://github.com/melonproject/protocol) protocol for [web](https://github.com/Midas-Technologies-AG/MelonApp/tree/master/Web) and [mobile](https://github.com/Midas-Technologies-AG/MelonApp/tree/master/Mobile)
 * [Hack Tribes](https://github.com/Midas-Technologies-AG/hacktribes-prototype)
 * [W0rld H3alth Organizati0n](https://twitter.com/Gpt2Who)
 
