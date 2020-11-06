@@ -7,9 +7,8 @@ Email: [based.tachikoma@gmail.com](mailto:based.tachikoma@gmail.com)
 
 ---
 
-Connect to **~rapper-hobbyt** on Urbit: 
+To connect to **~rapper-hobbyt** on Urbit, enter in dojo: 
 
-*Enter in dojo*
-    
-    &#124;hi ~rapper-hobbyt "hi"
-
+<pre><code>    
+&#124;hi ~rapper-hobbyt "hi"
+</code></pre> 
