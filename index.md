@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="rapper-hobbyt.png">
 
-I am system architect with a focus on distributed systems and UX. The last few years I worked on integrating decentralized financial protocols into mobile and desktop apps. 
+I am a systems architect with a focus on distributed and decentralized systems, DevOps and UX. The last few years I worked on integrating decentralized financial protocols into mobile and desktop apps. 
 
 ## Projects
 
@@ -25,7 +25,7 @@ I am system architect with a focus on distributed systems and UX. The last few y
 
 * [LinkedIn](https://www.linkedin.com/in/philipp-do%C4%9Fan-671441b6/)
 * [Github](https://github.com/based-tachikoma)
+* [@based_tachikoma](https://twitter.com/based_tachikoma)
 * [Urbit: ~rapper-hobbyt](https://urbit.live/~rapper-hobbyt)
-* [Twitter](https://twitter.com/based_tachikoma)
 
 
