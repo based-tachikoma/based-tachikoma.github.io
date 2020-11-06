@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://twitter.com/based_tachikoma"
-footer_text: <img src="twitter2.png">
+footer_text: <img src="twitter2.jpg">
 
 sass:
     style: compressed
