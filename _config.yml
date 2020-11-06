@@ -8,7 +8,7 @@ ins_logo: "./tachikoma3.gif"
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana/researcher", "https://www.deviantart.com/shadowscion/art/Dancing-Tachikoma-366780168"
+footer_url: "https://github.com/ankitsultana/researcher"
 footer_text: Created with Jekyll & Researcher theme.
 footer_url_img: "https://www.deviantart.com/shadowscion/art/Dancing-Tachikoma-366780168"
 footer_text_img: Dancing Tachikoma by shadowscion.
