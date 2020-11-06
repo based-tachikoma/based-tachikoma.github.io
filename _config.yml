@@ -3,13 +3,13 @@ url: ""
 baseurl: ""
 
 markdown: kramdown
-ins_logo: "./tachikoma-clip.png"
+ins_logo: "./tachikoma-clip.jpg"
 
 tracking_id: #
 
 footer: yes
-footer_url: "https://twitter.com/based_tachikoma"
-footer_text: <img src="twitter2.jpg">
+footer_url: "https://github.com/ankitsultana/researcher"
+footer_text: Created with Jekyll & Researcher theme
 
 sass:
     style: compressed

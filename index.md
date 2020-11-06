@@ -26,5 +26,6 @@ I am system architect with a focus on distributed systems and UX. The last few y
 * [LinkedIn](https://www.linkedin.com/in/philipp-do%C4%9Fan-671441b6/)
 * [Github](https://github.com/based-tachikoma)
 * [Urbit: ~rapper-hobbyt](https://urbit.live/~rapper-hobbyt)
+* [Twitter](https://twitter.com/based_tachikoma)
 
 
