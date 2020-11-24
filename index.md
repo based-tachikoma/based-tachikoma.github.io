@@ -6,7 +6,7 @@ layout: default
 
 <a href="https://urbit.live/~rapper-hobbyt"><img class="profile-picture" src="rapper-hobbyt.png"></a>
 
-I am a systems architect working with distributed and decentralized systems, DevOps and UX. In my last projects I built mobile and web apps integrating decentralized financial protocols. 
+I am a systems architect working with distributed systems and DevOps. In my last projects I built mobile and web apps integrating decentralized financial protocols. 
 
 ## Projects
 
