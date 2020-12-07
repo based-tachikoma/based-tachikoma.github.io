@@ -4,7 +4,11 @@ layout: default
 
 ## Claimsforce exercise
 
+<br>
+
 ### 1. Prioritization
+
+<br>
 
 * Use data from interviews and surverys to determine which issue came up more often and/or was described as more severe.
 
@@ -16,10 +20,12 @@ layout: default
 	
 * Evaluate the impact of solving either issue in terms of: product impact (sales),  user impact (UX) and the effort it will take to deliver, i.e. development time.
 
-                       | Product impact | User impact | Development time (higher is faster) | Total
----------------------- | -------------- | ----------- | ----------------------------------- | ------
+
+Categories             | Product impact | User impact | Development time (higher is faster) | Total
+| :--- | ---: | ---: | ---: | ---: |
 Document handling      | 5              | 3           | 1                                   | 9
 Appointment scheduling | 3              | 5           | 3                                   | 11
+
 
 	- Reasoning: 
 
@@ -38,8 +44,11 @@ There are a lot of assumptions in this section. In the next step I will share my
 	
 * Summary: Considering the data collected on the two issues, the Claimsforce mission, marketing and sales strategy and after evaluating the initial assumptions with all affected departments (and modifying accordingly) the appointment scheduling issue is prioritized.
 
+<br>
+
 ### 2. Execution
 
+<br>
 * Create an overview diagram to have shared understanding of the issue for everyone involved in the development and allow collective reasoning about the problem solution compononents.
 
 	- To achieve this I apply an performance indicator to the problem  to categorize all connected aspects accordingly. Indicators could be for ex. claims-per-day ratio or time-saved, this depends on existing Claimsforce performance indicators and applicability to the problem domain. For this exercise I use the claims-per-day indicator.
@@ -58,7 +67,11 @@ There are a lot of assumptions in this section. In the next step I will share my
 
 * Rollout.
 
+<br>
+
 ### 3. Tracking
+
+<br> 
 
 * Define KPI with sales, marketing: in this example I assumed claims-per-day. Track this indicator and compare with pre-feature numbers.
 
