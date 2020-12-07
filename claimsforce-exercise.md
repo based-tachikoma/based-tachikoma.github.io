@@ -51,13 +51,13 @@ There are a lot of assumptions in this section. In the next step I will share my
 <br>
 * Create an overview diagram to have shared understanding of the issue for everyone involved in the development and allow collective reasoning about the problem solution compononents.
 
-	- To achieve this I apply an performance indicator to the problem  to categorize all connected aspects accordingly. Indicators could be for ex. claims-per-day ratio or time-saved, this depends on existing Claimsforce performance indicators and applicability to the problem domain. For this exercise I use the claims-per-day indicator.
+	- To achieve this I would map the current state of the interactions and apply a performance indicator to the problem to highlight how the current state of interactions is rated and what needs to be developed to reach the future state. Indicators could be for ex. claims-per-day ratio or time-saved, this depends on existing Claimsforce performance indicators and applicability to the problem domain. For this exercise I use the claims-per-day indicator. In this particular case the diagram would center around a mapping of the current manual interactions and the desired, automated interactions of the future state and how this transition improves the performance indicator.
 
 * Create a basis for discussion:
 
 	- simple UI example (wireframes)
 
-	- technical questions: is a calendly integration viable?
+	- technical questions, for ex.: is a calendly integration viable?
 
 * The next step is a session with the team to decide on the requirements of the MVP. Requirements will include, technical, legal, visual, interactive, UX, indicator tracking and legal aspects.The problem description mentions extensive user interviews and surveys so I can imagine there is a reference user group that could be included in this process to get user validation of the visual, interactive and UX aspects of the MVP.
 
